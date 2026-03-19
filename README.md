@@ -20,7 +20,7 @@
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/danilbutakov/url-shortener.git
 cd url-shortener
 ```
 
